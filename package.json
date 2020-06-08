@@ -1,0 +1,11 @@
+{
+    "name": "canvas-breakout-game",
+    "version": "1.0.0",
+    "description": "A breakout game using the canvas API",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David Ajayi",
+    "license": "ISC"
+}
