@@ -203,4 +203,4 @@ closeBtn.addEventListener('click', function() {
     rules.classList.remove('show');
 })
 
-module.exports = update;
+update();
